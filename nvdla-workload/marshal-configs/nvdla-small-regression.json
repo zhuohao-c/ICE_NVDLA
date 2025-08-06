@@ -1,0 +1,9 @@
+{
+  "name" : "nvdla-small-regression",
+  "base" : "nvdla-base.json",
+  "workdir" : "../nvdla-base",
+  "overlay" : "overlay",
+  "rootfs-size": "1GB",
+  "run" : "./run-nvdla-small-regression.sh",
+  "mem" : "4GiB"
+}

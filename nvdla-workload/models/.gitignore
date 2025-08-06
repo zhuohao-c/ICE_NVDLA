@@ -1,0 +1,6 @@
+**/*.prototxt
+**/*.caffemodel
+**/*.nvdla
+*.protobuf
+!**/prebuilt_resnet50_large.nvdla
+!**/prebuilt_resnet50_small.nvdla

@@ -1,0 +1,3 @@
+[submodule "nvdla-base/nvdla-sw"]
+	path = nvdla-base/nvdla-sw
+	url = git@github.com:ice-rlab/nvdla-sw.git
